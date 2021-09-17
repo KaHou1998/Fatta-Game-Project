@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-Fatta Game Project/[Ll]ibrary/
-Fatta Game Project/[Tt]emp/
-Fatta Game Project/[Oo]bj/
-Fatta Game Project/[Bb]uild/
-Fatta Game Project/[Bb]uilds/
-Fatta Game Project/[Ll]ogs/
-Fatta Game Project/[Uu]ser[Ss]ettings/
+Fatta Game Project/Library/
+Fatta Game Project/Temp/
+Fatta Game Project/obj/
+Fatta Game Project/Build/
+Fatta Game Project/Builds/
+Fatta Game Project/Logs/
+Fatta Game Project/UserSettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
