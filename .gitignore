@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-Fatta Game Project/Library/
-Fatta Game Project/Temp/
-Fatta Game Project/obj/
-Fatta Game Project/Build/
-Fatta Game Project/Builds/
-Fatta Game Project/Logs/
-Fatta Game Project/UserSettings/
+/Fatta Game Project/Library/
+/Fatta Game Project/Temp/
+/Fatta Game Project/obj/
+/Fatta Game Project/Build/
+/Fatta Game Project/Builds/
+/Fatta Game Project/Logs/
+/Fatta Game Project/UserSettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -67,5 +67,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-Fatta Game Project/Library/
-Fatta Game Project/Logs/
+/Fatta Game Project/Library/
+/Fatta Game Project/Logs/
