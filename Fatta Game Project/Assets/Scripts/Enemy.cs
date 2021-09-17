@@ -2,14 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour  
+public abstract class Enemy : MonoBehaviour  
 {
     protected int health;
     protected int damage;
     protected int movementSpeed;
     protected Type enemyType;
-    protected EnemyData enemyData;
-
+   
     //Initialize enemy stat
     protected virtual void Init(){}
 
@@ -24,7 +23,8 @@ public class Enemy : MonoBehaviour
     public virtual void takeDamage(int damageAmount) { }
     public virtual void gotSlow(int slowAmount) { }
 
-    
+  
+
 
 }
 

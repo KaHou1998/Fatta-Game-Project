@@ -333,8 +333,13 @@
 "Assets/Scripts/EnemyAI/EnemyMeshView.cs"
 "Assets/Scripts/EnemyAI/EnemyModel.cs"
 "Assets/Scripts/EnemyAI/EnemyView.cs"
-"Assets/Scripts/MeleeEnemy.cs"
+"Assets/Scripts/EnemyNPC.cs"
+"Assets/Scripts/FiniteStateMachine.cs"
+"Assets/Scripts/Melee Enemy/MeleeEnemy.cs"
+"Assets/Scripts/ScriptableObject/AbstractFSMState.cs"
 "Assets/Scripts/ScriptableObject/EnemyData.cs"
+"Assets/Scripts/State/IdleState.cs"
+"Assets/Scripts/State/PatroState.cs"
 -langversion:8.0
 
 /deterministic

@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class MeleeEnemy : Enemy
 {
+    public EnemyData enemyData;
+
     protected override void Init()
     {
         health = enemyData.health;
